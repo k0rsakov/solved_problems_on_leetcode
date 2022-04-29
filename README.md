@@ -4,4 +4,4 @@
 
 [Account](https://leetcode.com/korsakov_iyu/)
 
-:laptop: This repository will contain my solutions to problems on [LeetCode](https://leetcode.com/problemset/all/)
+This repository will contain my solutions to problems on [LeetCode](https://leetcode.com/problemset/all/)
